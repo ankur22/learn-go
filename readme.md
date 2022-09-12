@@ -4,6 +4,8 @@ Links to resources that have helped me learn Go.
 
 ## Courses
 
+- Learn GO with Tests https://quii.gitbook.io/learn-go-with-tests/
+
 ## Structs & Interfaces
 
 - Struct And Interface Embedding https://ankur-a22.medium.com/struct-and-interface-embedding-f0da8517fa8a
